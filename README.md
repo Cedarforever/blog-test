@@ -13,7 +13,7 @@ console.log(a)
  1. 命令行
  2. 仓库、本地仓库、远端仓库
 
-. Frankfang爱看的明星
+Frankfang爱看的明星
 
 * 风间由美
 * 波多野结衣
