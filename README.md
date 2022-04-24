@@ -15,6 +15,6 @@ console.log(a)
 
 Frankfang爱看的明星
 
-* 风间由美
-* 波多野结衣
+* 周杰伦
+* 刘畊宏
   
